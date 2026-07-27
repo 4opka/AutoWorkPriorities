@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AutoWorkPriorities.AutoAssign>Auto assign priorities</AutoWorkPriorities.AutoAssign>
+	<AutoWorkPriorities.RecalculateNow>Recalculate now</AutoWorkPriorities.RecalculateNow>
+	<AutoWorkPriorities.Enabled>Enabled</AutoWorkPriorities.Enabled>
+	<AutoWorkPriorities.Disabled>Disabled</AutoWorkPriorities.Disabled>
+	<AutoWorkPriorities.AutoUpdateInterval>Auto update interval (seconds)</AutoWorkPriorities.AutoUpdateInterval>
+	<AutoWorkPriorities.UsePassions>Use passions</AutoWorkPriorities.UsePassions>
+	<AutoWorkPriorities.UseTraits>Use traits</AutoWorkPriorities.UseTraits>
+	<AutoWorkPriorities.UseAge>Use age</AutoWorkPriorities.UseAge>
+	<AutoWorkPriorities.UseHealth>Use health</AutoWorkPriorities.UseHealth>
+	<AutoWorkPriorities.PrimaryJobCount>Number of primary jobs</AutoWorkPriorities.PrimaryJobCount>
+	<AutoWorkPriorities.SecondaryJobCount>Number of secondary jobs</AutoWorkPriorities.SecondaryJobCount>
+	<AutoWorkPriorities.MinPriorityForJob>Minimum priority (0-3)</AutoWorkPriorities.MinPriorityForJob>
+</LanguageData>

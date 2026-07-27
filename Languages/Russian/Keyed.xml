@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<AutoWorkPriorities.AutoAssign>Автоматически назначать приоритеты</AutoWorkPriorities.AutoAssign>
+	<AutoWorkPriorities.RecalculateNow>Пересчитать сейчас</AutoWorkPriorities.RecalculateNow>
+	<AutoWorkPriorities.Enabled>Включено</AutoWorkPriorities.Enabled>
+	<AutoWorkPriorities.Disabled>Отключено</AutoWorkPriorities.Disabled>
+	<AutoWorkPriorities.AutoUpdateInterval>Интервал автообновления (сек)</AutoWorkPriorities.AutoUpdateInterval>
+	<AutoWorkPriorities.UsePassions>Учитывать страсти</AutoWorkPriorities.UsePassions>
+	<AutoWorkPriorities.UseTraits>Учитывать черты</AutoWorkPriorities.UseTraits>
+	<AutoWorkPriorities.UseAge>Учитывать возраст</AutoWorkPriorities.UseAge>
+	<AutoWorkPriorities.UseHealth>Учитывать здоровье</AutoWorkPriorities.UseHealth>
+	<AutoWorkPriorities.PrimaryJobCount>Количество основных работ</AutoWorkPriorities.PrimaryJobCount>
+	<AutoWorkPriorities.SecondaryJobCount>Количество второстепенных работ</AutoWorkPriorities.SecondaryJobCount>
+	<AutoWorkPriorities.MinPriorityForJob>Минимальный приоритет (0-3)</AutoWorkPriorities.MinPriorityForJob>
+</LanguageData>
